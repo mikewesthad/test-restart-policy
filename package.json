@@ -1,0 +1,8 @@
+{
+  "name": "test-restart-policy",
+  "version": "1.0.0",
+  "main": "test-restart.js",
+  "scripts": {
+    "start": "node test-restart.js"
+  }
+}
